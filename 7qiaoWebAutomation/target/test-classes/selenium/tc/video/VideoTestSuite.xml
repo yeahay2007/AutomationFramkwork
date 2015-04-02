@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="VideoTestSuite">
+  <test name="VideoTest">
+    <classes>
+       <class name="org.tc.teater.Diandi_teach_center_001"/>
+       <class name="org.tc.video.Diandi_video_display_001"/> 
+       <class name="org.tc.video.Diandi_video_display_002"/> 
+    </classes>
+  </test>
+</suite>

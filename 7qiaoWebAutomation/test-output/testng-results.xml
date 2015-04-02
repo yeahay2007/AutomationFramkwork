@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VideoTestSuite" duration-ms="29129" started-at="2015-03-06T03:25:26Z" finished-at="2015-03-06T03:25:55Z">
+    <groups>
+    </groups>
+    <test name="VideoTest" duration-ms="29129" started-at="2015-03-06T03:25:26Z" finished-at="2015-03-06T03:25:55Z">
+      <class name="org.tc.video.Diandi_video_display_001">
+        <test-method status="PASS" signature="displayJoinStudyForNoTrailerVideo()[pri:0, instance:org.tc.video.Diandi_video_display_001@7586beff]" name="displayJoinStudyForNoTrailerVideo" duration-ms="6813" started-at="2015-03-06T11:25:35Z" finished-at="2015-03-06T11:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayJoinStudyForNoTrailerVideo -->
+      </class> <!-- org.tc.video.Diandi_video_display_001 -->
+      <class name="org.tc.video.Diandi_video_display_002">
+        <test-method status="PASS" signature="displayJoinStudyForTrailerVideo()[pri:0, instance:org.tc.video.Diandi_video_display_002@292b08d6]" name="displayJoinStudyForTrailerVideo" duration-ms="12491" started-at="2015-03-06T11:25:42Z" finished-at="2015-03-06T11:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayJoinStudyForTrailerVideo -->
+      </class> <!-- org.tc.video.Diandi_video_display_002 -->
+      <class name="org.tc.teater.Diandi_teach_center_001">
+        <test-method status="PASS" signature="testCreateCause()[pri:0, instance:org.tc.teater.Diandi_teach_center_001@3b69e7d1]" name="testCreateCause" duration-ms="9796" started-at="2015-03-06T11:25:26Z" finished-at="2015-03-06T11:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateCause -->
+      </class> <!-- org.tc.teater.Diandi_teach_center_001 -->
+    </test> <!-- VideoTest -->
+  </suite> <!-- VideoTestSuite -->
+</testng-results>
