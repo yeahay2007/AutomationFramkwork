@@ -38,6 +38,12 @@
 			<artifactId>httpclient</artifactId>
 			<version>4.4</version>
 		</dependency>
+		<!-- easymock -->
+		<dependency>
+			<groupId>org.easymock</groupId>
+			<artifactId>easymock</artifactId>
+			<version>3.3</version>
+		</dependency>
 	</dependencies>
 
 	<build>
